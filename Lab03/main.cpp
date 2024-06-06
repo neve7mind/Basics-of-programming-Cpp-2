@@ -3,11 +3,11 @@
 #include <Windows.h>
 #include <cmath>
 
-#include "cmake-build-debug/Point.cpp"
-#include "cmake-build-debug/Line.cpp"
-#include "cmake-build-debug/Square.cpp"
-#include "cmake-build-debug/Rhomb.cpp"
-#include "cmake-build-debug/Pararam.cpp"
+#include "Point.cpp"
+#include "Line.cpp"
+#include "Square.cpp"
+#include "Rhomb.cpp"
+#include "Pararam.cpp"
 
 int main() {
 
