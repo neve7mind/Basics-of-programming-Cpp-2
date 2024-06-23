@@ -1,4 +1,3 @@
-//Мурашов Иван Вячеславович, НКАбд-04-23
 
 #ifndef MATRIX_H
 #define MATRIX_H
