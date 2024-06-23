@@ -1,4 +1,3 @@
-//Мурашов Иван Вячеславович, НКАбд-04-23
 
 #include <iostream>
 #include "Vector.h"
