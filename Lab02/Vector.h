@@ -1,4 +1,3 @@
-//Мурашов Иван Вячеславович, НКАбд-04-23
 
 #ifndef VECTOR_H
 #define VECTOR_H
