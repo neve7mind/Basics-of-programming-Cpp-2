@@ -1,5 +1,5 @@
-# Implementation of Simply Linked Lists in C++
-In this project I will explain with an example how simple-link lists in the programming language C++
+# Implementation of a Singly Linked Lists in C++
+In this project I will explain with an example how singly-linked lists in the programming language C++
 
 ## The aim of the project
 
@@ -16,7 +16,7 @@ Write a computer program containing
  
 ## Project preview
 
-In this project, I created a simple-linked list, each node of which stores the data of a certain person: name, height and weight. The set of functions specified in the project objectives was realized.
+In this project, I created a singly-linked list, each node of which stores the data of a certain person: name, height and weight. The set of functions specified in the project objectives was realized.
 
 ## How did I do it anyway?
 
