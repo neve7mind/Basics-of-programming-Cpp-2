@@ -81,8 +81,13 @@ int main() {
     ConcretePararam par2(&p9, 30, 100, 120);
     par2.draw(hdc);
 
-    par2.remove(hwnd, hdc);
+    //par2.remove(hwnd, hdc);
 
+    ConcretePoint p10(350, 300);
+    ConcreteSquare s4(&p10, 50);
+    s4.draw(hdc);
+    s4.remove(hwnd, hdc);
+    
 
     MSG msg;
     while (GetMessage(&msg, NULL, 0, 0)) {
@@ -91,7 +96,6 @@ int main() {
     }
     ReleaseDC(hwnd, hdc);
     DestroyWindow(hwnd);
-
 
     return 0;
 }
