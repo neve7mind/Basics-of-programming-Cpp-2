@@ -1,5 +1,4 @@
 # Implementation of a Singly Linked Lists in C++
-In this project I will explain with an example how singly-linked lists in the programming language C++
 
 ## The aim of the project
 
