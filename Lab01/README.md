@@ -1,4 +1,4 @@
-# Implementation of a Singly Linked Lists in C++
+# Implementation of a Singly Linked Lists
 
 ## The aim of the project
 
