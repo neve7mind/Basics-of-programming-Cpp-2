@@ -1,5 +1,7 @@
 # Vector and Matrix operations
 
+![](https://github.com/neve7mind/Basics-of-programming-Cpp-2/assets/134313494/4fc9be70-35f9-499b-9043-4e43da3b642b)
+
 ## The aim of the project
 
 Write a computer program containing
