@@ -1,5 +1,7 @@
 # 2D Figures Painting (WinAPI)
 
+![](https://github.com/neve7mind/Basics-of-programming-Cpp-2/assets/134313494/f836e0b3-0592-4d6f-bc78-5cd6cb6cacbd)
+
 ## The aim of the project
 
 Write a computer program containing a class description for the list of geometric objects: 
