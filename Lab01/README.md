@@ -1,5 +1,8 @@
 # Implementation of a Singly Linked Lists
 
+![](https://github.com/neve7mind/Basics-of-programming-Cpp-2/assets/134313494/773429e2-2cd9-4388-8e29-e2ffd4cde96a)
+
+
 ## The aim of the project
 
 Write a computer program containing
